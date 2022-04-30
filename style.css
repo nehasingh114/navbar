@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ #mas{
+    margin: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-right: 10%;
+} 
+form{
+    margin: auto;
+    width: 50%;
+}
+
+input{
+    display: block;
+    margin: auto;
+    font-size: 30px;
+    margin-top: 20px;
+ 
+}
+.text{
+    text-align: center;
+    margin-top: 20px;
+  padding-right: 50%;
+  /* margin-top: 40px; */
+  font-size:20px;
+}
+.para{
+    text-align: center;
+    margin-top: 20px;
+}
+.box{
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+}
